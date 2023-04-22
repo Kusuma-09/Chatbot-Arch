@@ -1,6 +1,6 @@
 # Chatbot-Arch
 
-                       | A virtual assistant designed to resolve funds and onboarding queries. |
+                       | A virtual assistant designed to resolve fund queries. |
 
 ![Cover img (1)](https://user-images.githubusercontent.com/106167161/232669347-d9043ece-8e06-4254-95a7-e225879689a3.jpg)
 
