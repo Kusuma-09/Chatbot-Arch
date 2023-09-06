@@ -6,8 +6,6 @@
 
 
 
-
-
 # Features
 Technology used-
 
